@@ -168,13 +168,13 @@ def main():
     print(exercise_6(df))
     print(exercise_7(df))
 
-    """description_1 = visual_1(df)
+    description_1 = visual_1(df)
     print(description_1)
     plt.show()
 
     description_2 = visual_2(df)
     print(description_2)
-    plt.show()"""
+    plt.show()
 
     # Calling the custom functions
     custom_data = exercise_custom(df)
