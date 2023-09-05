@@ -1,2 +1,6 @@
 # JP Morgan Chase & Co. Cybersecurity Project
-Queried and Analyzed transactions of fraud. Created ML Email Classifier to filter out malicious emails. Configured a security system to automate least privilege, tighteing access control.
+During this Forage Virtual experiece program, I took part in 4 python scripting tasks:
+## 1. Analyzed a dataset of fraudelent transactions to create data visualizations crucial for management.
+## 2. Gained basic knowledge & security basics of the Django framework
+## 3. Built spam/ham email classifier using a LogicRegression Machine Learning Module.
+## 4. Build an Access Control System:
