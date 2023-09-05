@@ -15,8 +15,7 @@ instance of the RolesCache corresponds to a single person.
 
 Finally, fill out the runtime complexity for get and set and the overall
 space used. Use Big O notation, i.e. O(1), O(N), etc. For a refresher
-on Big O notation,
-please review https://danielmiessler.com/study/big-o-notation/.
+on Big O notation.
 
 """
 
